@@ -52,3 +52,4 @@
 ---
 ### ارزیابی رزومه
 [rezome faresi](/resume-fa)
+[sop](/sop)
