@@ -51,3 +51,4 @@
 
 ---
 ### ارزیابی رزومه
+[rezome faresi](/resume-fa)
