@@ -1,5 +1,5 @@
 ---
-   <img src=https://s16.picofile.com/file/8420920618/hh.jpg width="20" height="20">" width="20" height="20">
+   <img src=https://s16.picofile.com/file/8420920618/hh.jpg width="20" height="20">
 ### Intro
 ---
 <br>
